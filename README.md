@@ -1,3 +1,3 @@
 # Shell
 
-This repository contains basic shell scripting projects for learning Linux commands.
+Este repositorio contiene los ejercicios del programa holberton.
